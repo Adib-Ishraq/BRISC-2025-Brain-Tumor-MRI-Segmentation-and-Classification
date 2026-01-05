@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+.env
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Data + outputs (keep out of git)
+data/
+outputs/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Plots
+*.png
+*.jpg
+*.jpeg
