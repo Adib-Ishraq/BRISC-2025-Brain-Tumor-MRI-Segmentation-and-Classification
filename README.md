@@ -1,4 +1,4 @@
-# BRISC2025 (CSE428) — Segmentation + Classification
+# BRISC2025 — Segmentation + Classification
 
 This repository contains the cleaned, end-to-end pipeline we used for the BRISC2025 course project:
 
